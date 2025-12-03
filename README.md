@@ -1,4 +1,4 @@
-# MotionCraft Portfolio
+# Hash2Editzz Portfolio
 
 A premium portfolio website for a video editor and motion graphics designer, featuring modern animations, dark/light theme support, and responsive design.
 
